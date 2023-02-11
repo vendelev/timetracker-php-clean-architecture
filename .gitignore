@@ -1,0 +1,12 @@
+# Composer
+/backend/vendor
+/backend/composer.phar
+
+# PHPUnit
+/backend/phpunit.xml
+
+# IntelliJ project files
+.idea
+
+# DB
+/SQLiteDB
