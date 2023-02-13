@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Framework\Infrastructure;
+namespace App\Core\Infrastructure;
 
-use App\Framework\Domain\Interfaces\SessionInterface;
+use App\Core\Domain\Interfaces\SessionInterface;
 
 class FileSession implements SessionInterface
 {

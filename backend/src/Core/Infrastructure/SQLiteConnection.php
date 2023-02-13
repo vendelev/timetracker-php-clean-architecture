@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Framework\Infrastructure;
+namespace App\Core\Infrastructure;
 
-use App\Framework\Domain\Interfaces\DbConnectionInterface;
+use App\Core\Domain\Interfaces\DbConnectionInterface;
 use SQLite3;
 use SQLite3Stmt;
 

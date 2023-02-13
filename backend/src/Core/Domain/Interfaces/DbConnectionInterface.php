@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Framework\Domain\Interfaces;
+namespace App\Core\Domain\Interfaces;
 
 interface DbConnectionInterface
 {

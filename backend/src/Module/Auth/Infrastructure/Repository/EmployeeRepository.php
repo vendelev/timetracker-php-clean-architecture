@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace App\Module\Auth\Infrastructure\Repository;
 
-use App\Framework\Domain\Interfaces\DbConnectionInterface;
+use App\Core\Domain\Interfaces\DbConnectionInterface;
 use App\Module\Auth\Domain\Entity\Employee;
 use App\Module\Auth\Domain\Infrastructure\EmployeeRepositoryInterface;
 

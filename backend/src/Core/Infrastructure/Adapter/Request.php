@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Module\Auth\Infrastructure\Adapter;
+namespace App\Core\Infrastructure\Adapter;
 
 use App\Module\Auth\Domain\Infrastructure\RequestInterface;
 

@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace App\Module\Auth\UseCase;
 
-use App\Framework\Domain\Interfaces\SessionInterface;
+use App\Core\Domain\Interfaces\SessionInterface;
 use App\Module\Auth\Domain\Dto\Request\AuthDto;
 use App\Module\Auth\Domain\Entity\Employee;
 
